@@ -35,7 +35,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ArthurFiorin/ArthurFiorin/output/snake.svg" alt="Snake animation" />
-
-###
