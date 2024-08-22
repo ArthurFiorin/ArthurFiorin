@@ -2,24 +2,26 @@
 
 ###
 
-<p align="left">👋 Olá! Sou Arthur Fiorin, estudante de Análise e Desenvolvimento de Sistemas (ADS) com grande interesse em desenvolvimento de softwarer.<br><br>💻 Atualmente, foco Java e MySQL, com interesse especial em Spring. Estou sempre buscando aplicar o que aprendo em projetos práticos para consolidar meus conhecimentos e expandir minhas habilidades.<br><br>🌱 Atualmente Aprendendo: Spring Framework e JavaScript</p>
+<p align="left">👋 Olá! Sou Arthur Fiorin, estudante de Análise e Desenvolvimento de Sistemas (ADS) com grande interesse em desenvolvimento de softwarer.<br><br>💻 Atualmente, foco em Java e MySQL, com interesse especial em Spring. Estou sempre buscando aplicar o que aprendo em projetos práticos para consolidar meus conhecimentos e expandir minhas habilidades.<br><br>🌱 Atualmente Aprendendo: Spring Framework e JavaScript</p>
 
 ###
 
-<h2 align="left">Tech</h2>
+<h2 align="left">Techs</h2>
 
 ###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
