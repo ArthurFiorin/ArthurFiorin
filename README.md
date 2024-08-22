@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Olá! Sou Arthur Fiorin, estudante de Análise e Desenvolvimento de Sistemas (ADS) com grande interesse em desenvolvimento de software.<br><br>💻 Atualmente, foco Java e MySQL, com interesse especial em Spring. Estou sempre buscando aplicar o que aprendo em projetos práticos para consolidar meus conhecimentos e expandir minhas habilidades.<br><br>🌱 Atualmente Aprendendo: Spring Framework e JavaScript</p>
+<p align="left">👋 Olá! Sou Arthur Fiorin, estudante de Análise e Desenvolvimento de Sistemas (ADS) com grande interesse em desenvolvimento de softwarer.<br><br>💻 Atualmente, foco Java e MySQL, com interesse especial em Spring. Estou sempre buscando aplicar o que aprendo em projetos práticos para consolidar meus conhecimentos e expandir minhas habilidades.<br><br>🌱 Atualmente Aprendendo: Spring Framework e JavaScript</p>
 
 ###
 
