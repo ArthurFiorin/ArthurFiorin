@@ -2,8 +2,12 @@
 
 ###
 
-<p align="left">👋 Olá! Sou Arthur Fiorin, estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em desenvolvimento backend.<br><br>💻 Tenho experiência prática em <b>Java, MySQL</b> e <b>Spring</b>, aplicando meus conhecimentos em projetos que simulam cenários reais de desenvolvimento e manutenção de sistemas.<br><br>🚀 Busco oportunidades para <b>contribuir em projetos de tecnologia</b>, aprimorar minhas habilidades e aprender novas tecnologias.<br><br>🌱 Atualmente me aprofundando em <b>Spring Framework</b> e <b>JavaScript</b>.</p>
-
+<p align="left">
+  👋 Olá! Sou <b>Arthur Fiorin</b>, estudante de <b>ADS</b> focado em <b>backend</b>.<br><br>
+  💻 Experiência prática com <b>Java, Spring</b> e <b>MySQL</b>, aplicando em projetos reais.<br><br>
+  🚀 Busco oportunidades para <b>evoluir, aprender</b> e <b>contribuir em tecnologia</b>.<br><br>
+  🌱 Atualmente estudando <b>Spring Framework</b> e <b>JavaScript</b>.
+</p>
 
 ###
 
@@ -19,8 +23,6 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
