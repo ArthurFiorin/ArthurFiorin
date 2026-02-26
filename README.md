@@ -24,7 +24,7 @@ Atualmente desenvolvendo um projeto completo envolvendo **API REST, integração
 - Regras de negócio (pedidos, produtos, fluxo de compra)
 - Banco de dados relacional
 
-🔗 Repositório: (https://github.com/E-G-U-S/e-gus-api)
+🔗 Repositório: (https://github.com/ArthurFiorin/Sistema-de-Autoatendimento---MKT-GUS)
 
 ---
 
