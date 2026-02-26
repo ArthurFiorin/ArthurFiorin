@@ -34,7 +34,7 @@ Atualmente desenvolvendo um projeto completo envolvendo **API REST, integração
 - Pipeline CI/CD
 - Infraestrutura como código (IaC)
 
-🔗 Repositório: (https://github.com/ArthurFiorin/Devops)
+🔗 Repositório: (https://github.com/ArthurFiorin/SpringBoot-Devops-Pipeline)
 
 ---
 
