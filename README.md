@@ -24,7 +24,7 @@ Atualmente desenvolvendo um projeto completo envolvendo **API REST, integração
 - Regras de negócio (pedidos, produtos, fluxo de compra)
 - Banco de dados relacional
 
-🔗 Repositório: )
+🔗 Repositório: (https://github.com/E-G-U-S/e-gus-api)
 
 ---
 
@@ -34,7 +34,7 @@ Atualmente desenvolvendo um projeto completo envolvendo **API REST, integração
 - Pipeline CI/CD
 - Infraestrutura como código (IaC)
 
-🔗 Repositório: (link do projeto DevOps)
+🔗 Repositório: (https://github.com/ArthurFiorin/Devops)
 
 ---
 
