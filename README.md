@@ -1,42 +1,46 @@
-<h2 align="left">About me</h2>
+# 👋 Olá, eu sou Arthur Fiorin
 
-###
+Desenvolvedor backend em formação com foco em **Java, Spring Boot e MySQL**, com projetos próprios voltados a sistemas reais e automação.  
+Atualmente desenvolvendo um projeto completo envolvendo **API REST, integração com API externa e práticas de DevOps**.
 
-<p align="left">
-  👋 Olá! Sou <b>Arthur Fiorin</b>, estudante de <b>ADS</b> focado em <b>backend</b>.<br><br>
-  💻 Experiência prática com <b>Java, Spring</b> e <b>MySQL</b>, aplicando em projetos reais.<br><br>
-  🚀 Busco oportunidades para <b>evoluir, aprender</b> e <b>contribuir em tecnologia</b>.<br><br>
-  🌱 Atualmente estudando <b>Spring Framework</b> e <b>JavaScript</b>.
-</p>
+---
 
-###
+## 🚀 Tecnologias
+- Java (POO, Collections, CRUD)
+- Spring Boot, Spring Data JPA, APIs REST
+- MySQL
+- Git & GitHub
+- Docker (em projeto)
+- Kubernetes (em estudo)
+- CI/CD (em projeto)
 
-<h2 align="left">Techs</h2>
+---
 
-###
+## 📌 Projetos em destaque
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+### 🛒 EGUS – Sistema de Autoatendimento para Supermercados
+- API REST em Java + Spring Boot
+- Integração com API externa para busca de produtos
+- Regras de negócio (pedidos, produtos, fluxo de compra)
+- Banco de dados relacional
 
-###
+🔗 Repositório: )
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurFiorin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurFiorin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### ⚙️ Projeto DevOps (em desenvolvimento)
+- Containerização com Docker
+- Orquestração com Kubernetes
+- Pipeline CI/CD
+- Infraestrutura como código (IaC)
 
-<div align="left">
-</div>
+🔗 Repositório: (link do projeto DevOps)
 
-###
+---
+
+## 🎯 Objetivo
+Busco oportunidade como **estagiário ou desenvolvedor júnior**, onde eu possa aplicar meus conhecimentos em backend e evoluir em ambiente profissional.
+
+📫 Contato:  
+LinkedIn: https://linkedin.com/in/SE  
+Email: fiorinarthur18@gmail.com
