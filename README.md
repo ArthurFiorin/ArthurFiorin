@@ -42,5 +42,5 @@ Atualmente desenvolvendo um projeto completo envolvendo **API REST, integração
 Busco oportunidade como **estagiário ou desenvolvedor júnior**, onde eu possa aplicar meus conhecimentos em backend e evoluir em ambiente profissional.
 
 📫 Contato:  
-LinkedIn: https://linkedin.com/in/SE  
+LinkedIn: www.linkedin.com/in/arthurfiorin160258  
 Email: fiorinarthur18@gmail.com
