@@ -25,7 +25,7 @@ Atualmente desenvolvendo um projeto completo envolvendo **API REST, integração
 - Banco de dados relacional
 
 🔗 Repositório: (https://github.com/ArthurFiorin/Sistema-de-Autoatendimento---MKT-GUS)
-
+🔗 Repositório:  (https://github.com/E-G-U-S)
 ---
 
 ### ⚙️ Projeto DevOps (em desenvolvimento)
